@@ -1,4 +1,4 @@
-# Generative Models for Visual Signals - Project 4
+# Generative Models for Visual Signals
 
 ## Overview
 This project implements a novel method for guiding Deep Image Prior (DIP) early stopping by combining DIP with DDPM-inspired supervision. The approach addresses common challenges in DIP, such as overfitting and unstable image quality during training, by introducing a multi-stage denoising framework.
